@@ -15,9 +15,9 @@
 
 **Скріншоти працюючої програми**
 
-![](https://github.com/ppc-ntu-khpi/GUI-Lab1-Starter/blob/master/Lab%203%20-%20SWING/1.png)
+![](https://github.com/MargoBB/GUI-Lab1-Starter/blob/master/Lab%203%20-%20SWING/1.png)
 
-![](https://github.com/ppc-ntu-khpi/GUI-Lab1-Starter/blob/master/Lab%203%20-%20SWING/2.png)
+![](https://github.com/MargoBB/GUI-Lab1-Starter/blob/master/Lab%203%20-%20SWING/2.png)
 
 [![Gitter](https://badges.gitter.im/PPC-SE-2020/OOP.svg)](https://gitter.im/PPC-SE-2020/OOP?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 ![](https://img.shields.io/badge/Made%20with-JAVA-red.svg)
